@@ -1,8 +1,1 @@
-Thank you for using our template!
-
-For more awesome templates please visit https://colorlib.com/wp/templates/
-
-Copyright information for the template can't be altered/removed unless you purchase a license.
-More information about the license is available here: https://colorlib.com/wp/licence/
-
-Removing copyright information without the license will result in suspension of your hosting and/or domain name(s).
+This is a responsive and user-friendly website to explore upcoming concerts, artists, and venues. It features event listings, search filters, and interactive maps for easy navigation. Built using HTML, CSS, and JavaScript, it delivers a seamless experience for music lovers on all devices.
